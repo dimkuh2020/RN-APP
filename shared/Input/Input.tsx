@@ -30,7 +30,8 @@ const styles = StyleSheet.create({
         paddingHorizontal: 24,
         borderRadius: Radius.r10,
         fontSize: Fonts.f16,
-        color: Colors.grey        
+        color: Colors.grey,
+        fontFamily: 'FiraSans'        
     },
     eyeIcon: {
         position: 'absolute',

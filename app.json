@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#16171D"
     },
     "ios": {
       "supportsTablet": true
@@ -26,7 +26,7 @@
     },
     "plugins": [
       "expo-router"
-    ]
-  },
-  "scheme": "my-native-app"
+    ],
+    "scheme": "my-native-app"
+  }
 }
